@@ -36,7 +36,8 @@ Hardware – PCs, Cyclone II , USB flasher
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
 Developed by:SAI GURU CHANDRAN G
-RegisterNumber:212223240143
+RegisterNumber:212223240143*/
+```
 //Program to compute the function f1=a'b'c'd'+ac'd'+b'cd'+a'bcd+bc'd
 //f2=xy'z+x'y'z+w'xy+wx'y+wxy
 // simplify the logic using Boolean minimization/k map 
@@ -59,11 +60,12 @@ and(t,x,y);
 and(u,w,y);
 or(f2,s,t,u);
 endmodule
-*/
+```
 
 
 **RTL realization**
-![Uploading Screenshot 2024-09-13 141700.png…]()
+![Screenshot 2024-09-13 141700](https://github.com/user-attachments/assets/93ea7e93-7d7f-43df-a441-c42e7389eb58)
+
 
 **Output:**
 ![Screenshot 2024-09-13 141617](https://github.com/user-attachments/assets/05fe20db-d016-4392-9bf2-a0fa38aba405)
