@@ -35,8 +35,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-##Developed by:SAI GURU CHANDRAN G
-##RegisterNumber:212223240143
+## Developed by:SAI GURU CHANDRAN G
+## RegisterNumber:212223240143
 ```
 //Program to compute the function f1=a'b'c'd'+ac'd'+b'cd'+a'bcd+bc'd
 //f2=xy'z+x'y'z+w'xy+wx'y+wxy
